@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afzal</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalashraf666&label=Profile%20views&color=0e75b6&style=flat" alt="afzalashraf666" /> </p>
 
 - 🔭 I’m currently working on **Data Scrapping and Analysis**
