@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afzal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalashraf666&label=Profile%20views&color=0e75b6&style=flat" alt="afzalashraf666" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalashraf666&label=Profile%20views&color=0e75b6&style=flat" alt="mafzaldev" /> </p>
 
 - 🔭 I’m currently working on **Data Scrapping and Analysis**
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/afzalashraf666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afzalashraf666/" height="30" width="40" /></a>
-<a href="https://twitter.com/afzalashraf666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzalashraf666" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mafzaldev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mafzaldev/" height="30" width="40" /></a>
+<a href="https://twitter.com/mafzaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mafzaldev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
