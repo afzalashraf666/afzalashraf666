@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afzal</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,%2C+I+am+Afzal)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalashraf666&label=Profile%20views&color=0e75b6&style=flat" alt="mafzaldev" /> </p>
 
