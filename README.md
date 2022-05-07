@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7F7F7&vCenter=true&lines=Hi%2C+I+am+Afzal)](https://git.io/typing-svg)
 
-🌱 I’m currently learning **React JS**
+I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
