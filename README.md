@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7F7F7&vCenter=true&lines=Hi%2C+I+am+Afzal)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalashraf666&label=Profile%20views&color=0e75b6&style=flat" alt="mafzaldev" /> </p>
-
 - 🌱 I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
