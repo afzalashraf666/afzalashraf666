@@ -2,9 +2,13 @@
 <h3 align="center">An undergraduate Computer Science student, passionate about Full Stack development and having enthusiasm of new tech-trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafzaldev&label=Profile%20views&color=0e75b6&style=flat-square" alt="mafzaldev" /> </p>
+
 - 🔭 I’m currently working on [NFTPool](https://github.com/mafzaldev/nftpool)
+ 
 - 🌱 I’m currently learning **ReactJS**
+
 - 👨‍💻 All of my projects are available at [https://github.com/mafzaldev](https://github.com/mafzaldev)
+
 - 📫 How to reach me **mafzaldev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
