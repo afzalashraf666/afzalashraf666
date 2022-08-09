@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afzal</h1>
-<h3 align="center">An undergraduate Computer Science student from University of Engineering and Technology, Lahore. Passionate about Full-Stack Web Development. Currently enhancing my skills in ReactJS, and always up to enhancing my skills, having great enthusiasm of new tech-trends and having deep obsession with aesthetic and clean UI designs.
+<h3 align="center">An undergraduate Computer Science student from the University of Engineering and Technology, Lahore. Passionate about Full-Stack Web Development. Currently enhancing my frontend development skills in ReactJS, and always up to learning new skills, having great enthusiasm for new tech trends, and having a deep obsession with aesthetic and clean UI designs.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafzaldev&label=Profile%20views&color=0e75b6&style=flat-square" alt="mafzaldev" /> </p>
