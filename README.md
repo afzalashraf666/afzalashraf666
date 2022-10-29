@@ -27,10 +27,7 @@ An undergraduate Computer Science student from the University of Engineering and
 
 - ⚡ Always up to contribute in Open Source  
   
-<br/>
-
-[![@mafzaldev's Holopin board](https://holopin.me/mafzaldev)](https://holopin.io/@mafzaldev)
-
+<br/>  
 
 
 ## Languages and Tools  
