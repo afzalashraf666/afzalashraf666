@@ -55,21 +55,34 @@ An undergraduate Computer Science student from the University of Engineering and
 
 
 ## Github Stats  
-<table overflow="hidden"><tr><td valign="top" width="50%">
+    <p align="center">
+      <img
+        width="400px"
+        src="https://github-readme-stats.vercel.app/api?username=mafzaldev&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"
+        alt="Github Stats"
+      />
+      <img
+        width="400px"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaldev&theme=tokyonight&hide_border=true"
+        alt="Github Streak"
+      />
+    </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaldev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
+    <p align="center">
+      <img
+        width="400px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaldev&hide=python&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Github Languages"
+      />
+    </p>
+    <p align="center">
+      <img
+        width="400px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaldev&hide=python&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Github Languages"
+      />
+    </p>
+<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mafzaldev&&style=flat-square)  
   
