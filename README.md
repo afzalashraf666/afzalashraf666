@@ -1,4 +1,4 @@
-# <img align="left" alt="HTML" width="30px" style="padding-right:5px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/alien-monster_1f47e.png" />**Afzal Ashraf!**
+# <img align="left" alt="HTML" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/alien-monster_1f47e.png" />**Afzal Ashraf!**
 
 ![](https://komarev.com/ghpvc/?username=mafzaldev)
 
@@ -32,7 +32,6 @@ An undergraduate Computer Science student from the University of Engineering and
 ---
 
 ## 🧰 **Languages and Tools**
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -42,7 +41,6 @@ An undergraduate Computer Science student from the University of Engineering and
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
 <br />
 
 #
