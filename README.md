@@ -1,4 +1,5 @@
-# <img align="left" alt="HTML" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/alien-monster_1f47e.png" />**Afzal Ashraf!**
+<h1 align="left">Hi 👋, I'm Afzal</h1>
+<h3 align="left">An undergraduate Computer Science student from the University of Engineering and Technology, Lahore. Passionate about Full-Stack Web Development. Currently enhancing my frontend development skills in ReactJS, and always up to learning new skills, having great enthusiasm for new tech trends, and having a deep obsession with aesthetic and clean UI designs.</h3>
 
 ![](https://komarev.com/ghpvc/?username=mafzaldev)
 
@@ -16,34 +17,67 @@
 </a>
 <a href="https://www.behance.net/mafzaldev" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
+</a>
+
+<h3>🙋‍♂️ABOUT ME</h3>
+
+  - 🎓 Sr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
+  - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [Google Developers Student Club](https://developers.google.com/community/dsc) Chapter 2021-2022
+  - 🔥  Interested in web, mobile, and open-source.
+  - 🌱 I’m currently learning **Flutter**
+  - 👨‍💻 All of my projects are available at **[https://bionlinks.vercel.app/](https://bionlinks.vercel.app/)**
+  - 💬 Ask me about **ReactJS, Flutter**
+  - 📫 How to reach me **mafzaldev@gmail.com**
+  - ❤️ Hobbies: Animations && Motion Graphics
 
 
-An undergraduate Computer Science student from the University of Engineering and Technology, Lahore. Passionate about Full-Stack Web Development. Currently enhancing my frontend development skills in ReactJS, and always up to learning new skills, having great enthusiasm for new tech trends, and having a deep obsession with aesthetic and clean UI designs.
 
-+Former Core Team Member of [Google Developers Student Club](https://developers.google.com/community/dsc) Chapter 2021-2022 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+</p>
 
-+Hobbies: Animations & Motion Graphics
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&theme=darcula&locale=en" alt="mafzaldev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaldev&theme=dark" alt="mafzaldev" /></p>
 
 [![@mafzaldev's Holopin board](https://holopin.me/mafzaldev)](https://holopin.io/@mafzaldev)
-
-
----
-
-## 🧰 **Languages and Tools**
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
-
-#
-
-## 📊 **Github Stats**
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&theme=gruvbox)
