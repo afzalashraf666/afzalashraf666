@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 
-<h3>🙋‍♂️ABOUT ME</h3>
+<h3>ABOUT ME</h3>
 
   - 🎓 Sr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
   - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [Google Developers Student Club](https://developers.google.com/community/dsc) Chapter 2021-2022
