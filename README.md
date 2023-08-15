@@ -1,5 +1,7 @@
-<h1 align="left">Hi 👋, I'm Afzal</h1>
-<h3 align="left">I am an enthusiastic undergraduate Computer Science student at the University of Engineering and Technology, Lahore, with a strong passion for Full-Stack Web Development. My current focus lies in enhancing my frontend development skills, particularly in ReactJS. I am always eager to expand my knowledge and stay up-to-date with the latest technological trends. Additionally, I possess a deep appreciation for aesthetic and clean UI designs, which fuels my obsession to create visually appealing interfaces. I am constantly striving to improve and learn new skills to excel in the world of web development.</h3>
+<h1 align="center">Hi 👋, I'm Afzal</h1>
+<p align="center">
+  <samp>I am an enthusiastic undergraduate CS student at the UET Lahore, with a strong passion for Full-Stack Web Development.</samp>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=mafzaldev)
 
@@ -21,14 +23,16 @@
 
 <h3>ABOUT ME</h3>
 
-  - 🎓 Sr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
-  - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [Google Developers Student Club](https://developers.google.com/community/dsc) Chapter 2021-2022
-  - 🔥  Interested in web, mobile, and open-source.
-  - 🌱 I’m currently learning **Flutter**
-  - 👨‍💻 All of my projects are available at **[https://bionlinks.vercel.app/](https://bionlinks.vercel.app/)**
-  - 💬 Ask me about **ReactJS, Flutter**
-  - 📫 How to reach me **mafzaldev@gmail.com**
-  - ❤️ Hobbies: Animations && Motion Graphics
+<samp>
+  - 🎓 Sr. Year CS Undergrad at University of Engineering & Technology Lahore 🎓 <br/>
+  - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [GDSC](https://developers.google.com/community/dsc) Chapter 2021-2022 <br/>
+  - 🔥  Interested in web, mobile, and open-source. <br/>
+  - 🌱 I’m currently learning Flutter <br/>
+  - 👨‍💻 All of my projects are available at https://bionlinks.vercel.app <br/>
+  - 💬 Ask me about ReactJS, Flutter <br/>
+  - 📫 How to reach me mafzaldev@gmail.com <br/>
+  - ❤️ Hobbies: Animations && Motion Graphics <br/>
+</samp>
 
 
 
@@ -73,5 +77,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&theme=darcula&locale=en" alt="mafzaldev" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaldev&theme=dark" alt="mafzaldev" /></p>
-
-[![@mafzaldev's Holopin board](https://holopin.me/mafzaldev)](https://holopin.io/@mafzaldev)
