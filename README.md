@@ -32,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<div>
-  <img mar src="https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&theme=darcula&locale=en" alt="mafzaldev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaldev&theme=dark" alt="mafzaldev" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&theme=darcula&locale=en" alt="mafzaldev" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaldev&theme=dark" alt="mafzaldev" width="422" />
 </div>
