@@ -10,8 +10,8 @@
   - 🎓 Sr. Year CS Undergrad at University of Engineering & Technology Lahore 🎓 <br/>
   - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [GDSC](https://developers.google.com/community/dsc) Chapter 2021-2022 <br/>
   - 🔥  Interested in web, mobile, and open-source <br/>
-  - 🌱 I’m currently enrolled in IBM DevOps and Software Engineering Certfication <br/>
-  - 👨‍💻 Visit my personal site here: https://dub.sh/afzal<br/>
+  - 🌱 I’m currently enrolled in IBM Full Stack Software Developer Professional Certification <br/>
+  - 👨‍💻 Visit my personal site here: https://dub.sh/afzal <br/>
   - 📫 How to reach me mafzaldev@gmail.com <br/>
   - ❤️ Hobbies: Animations && Motion Graphics <br/>
 </samp>
