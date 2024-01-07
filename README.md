@@ -6,15 +6,14 @@
 ![](https://komarev.com/ghpvc/?username=mafzaldev)
 
 <h3>ABOUT ME</h3>
-<samp>
-  - 🎓 Sr. Year CS Undergrad at University of Engineering & Technology Lahore 🎓 <br/>
-  - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [GDSC](https://developers.google.com/community/dsc) Chapter 2021-2022 <br/>
-  - 🔥  Interested in web, mobile, and open-source <br/>
-  - 🌱 I’m currently enrolled in IBM Full Stack Software Developer Professional Certification <br/>
-  - 👨‍💻 Visit my personal site here: https://dub.sh/afzal <br/>
-  - 📫 How to reach me mafzaldev@gmail.com <br/>
-  - ❤️ Hobbies: Animations && Motion Graphics <br/>
-</samp>
+
+  - 🎓 Sr. Year CS Undergrad at University of Engineering & Technology Lahore 🎓
+  - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [GDSC](https://developers.google.com/community/dsc) Chapter 2021-2022
+  - 🔥  Interested in web, mobile, and open-source
+  - 🌱 I’m currently enrolled in IBM Full Stack Software Developer Professional Certification
+  - 👨‍💻 Visit my personal site [here](https://mafzaldev.vercel.app)
+  - 📫 How to reach me mafzaldev@gmail.com
+  - ❤️ Hobbies: Animations && Motion Graphics
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
