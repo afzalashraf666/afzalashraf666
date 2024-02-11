@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afzal</h1>
 <p align="center">
-  I am an enthusiastic undergraduate CS student at the UET Lahore, with a strong passion for Full-Stack Web Development.
+  I am an undergraduate CS student at the UET Lahore, with a strong passion for Full-Stack Software Development.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mafzaldev)
