@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Afzal</h1>
-<p align="center">
-  I am an undergraduate CS student at the UET Lahore, with a strong passion for Full-Stack Software Development.
-</p>
+### Hello, [Afzal](https://mafzal.dev) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
+I am an undergraduate CS student at the UET Lahore, with a strong passion for Full-Stack Software Development.
 
-![](https://komarev.com/ghpvc/?username=mafzaldev)
-
-<h3>ABOUT ME</h3>
-
+#### About Me:
   - 🎓 Sr. Year CS Undergrad at University of Engineering & Technology Lahore 🎓
   - 🏴󠁳󠁳󠁵󠁹󠁿 Former Core Team Member of [GDSC](https://developers.google.com/community/dsc) Chapter 2021-2022
   - 🔥  Interested in web, mobile, and open-source
-  - 👨‍💻 Visit my personal site [here](https://mafzaldev.vercel.app)
+  - 👨‍💻 Visit my personal site [here](https:///mafzal.dev)
   - 📫 How to reach me mafzaldev@gmail.com
   - ❤️ Hobbies: Animations && Motion Graphics
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+#### Languages and Tools:
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="40" height="40"/>
@@ -28,9 +23,10 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+</div>
 
-<div align="center">
+#### GitHub Stats:
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=mafzaldev&show_icons=true&theme=darcula&locale=en" alt="mafzaldev" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaldev&theme=dark" alt="mafzaldev" width="422" />
 </div>
